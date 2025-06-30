@@ -1,0 +1,20 @@
+# Ignore dataset files
+*.csv
+*.xlsx
+*.json
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
