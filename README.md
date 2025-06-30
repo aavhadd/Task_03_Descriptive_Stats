@@ -201,19 +201,8 @@ All plots render **inline** for easy review and export.
 - **Pivot Heatmaps**: Summarize median metric values by platform and metric.
  
 ---
+
  
-### 📌 Purpose and Storytelling
- 
-These visualizations are designed to:
- 
-- Reveal *distributional differences* between Facebook Ads, Facebook Posts, and Twitter Posts.
-- Handle **extreme skew** with **log scales** for more meaningful insights.
-- Enable **cross-platform storytelling** for senior stakeholders, clearly showing:
-  - How Facebook Ads have low typical spend with a few very large campaigns.
-  - How Facebook Posts interactions are variable but less extreme.
-  - How Twitter engagement is generally lower but contains significant outliers.
- 
----
  
  
 ---
